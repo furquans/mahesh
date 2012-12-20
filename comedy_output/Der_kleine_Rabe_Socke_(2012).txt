@@ -1,0 +1,9 @@
+badger
+bear
+dam
+dog
+friendship
+pig
+raven
+sheep
+talking-animal

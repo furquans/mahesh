@@ -1,0 +1,5 @@
+katana
+ninja
+samurai
+sword
+temple

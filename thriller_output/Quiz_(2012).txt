@@ -1,0 +1,5 @@
+ambulance
+envelope
+police
+restaurant
+waiter

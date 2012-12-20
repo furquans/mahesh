@@ -1,0 +1,14 @@
+b-movie
+buddhist
+children
+experimental
+hispanic
+islamic
+nature
+satire
+science
+student-film
+third-world
+urban-film
+independent-film
+supernatural

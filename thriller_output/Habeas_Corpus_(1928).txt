@@ -1,0 +1,7 @@
+bat
+falling-wall
+graveyard
+pratfall
+turtle
+two-reeler
+wet-paint

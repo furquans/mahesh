@@ -1,0 +1,14 @@
+arrest
+bleeped-dialogue
+car
+chase
+fast-motion-sequence
+highway
+law-enforcement
+on-the-run
+police
+police-chase
+police-officer
+rock-music
+video-surveillance
+voice-over-narration

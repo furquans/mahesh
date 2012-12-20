@@ -1,0 +1,9 @@
+f-word
+interview
+magazine
+reference-to-albert-einstein
+reference-to-david-bowie
+reference-to-facebook
+reference-to-star-wars
+time-travel
+writer

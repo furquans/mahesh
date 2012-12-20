@@ -1,0 +1,8 @@
+arcade-game
+comet
+cutter
+daisy
+flower
+laser
+missile
+outer-space

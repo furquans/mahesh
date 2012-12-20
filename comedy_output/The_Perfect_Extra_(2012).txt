@@ -1,0 +1,9 @@
+actor
+background
+celebrity
+director
+extra
+french
+movies-in-tv
+perfect-man
+star

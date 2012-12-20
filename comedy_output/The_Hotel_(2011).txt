@@ -1,0 +1,11 @@
+bride
+groom
+wedding
+employee-of-the-month
+couple
+new-employee
+children
+wedding-anniversary
+marriage-proposal
+wedding
+complaint

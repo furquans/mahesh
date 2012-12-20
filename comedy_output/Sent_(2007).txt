@@ -1,0 +1,3 @@
+auditory-hallucination
+hallucination
+visual-hallucination

@@ -1,0 +1,5 @@
+costume
+highland
+street-performer
+tip
+tourist

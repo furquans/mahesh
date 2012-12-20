@@ -1,0 +1,13 @@
+beating
+combat
+hand-to-hand-combat
+karate
+karate-kick
+martial-artist
+martial-arts
+martial-arts-master
+one-against-many
+one-man-army
+tough-guy
+training
+warrior

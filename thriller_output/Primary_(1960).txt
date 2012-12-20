@@ -1,0 +1,11 @@
+direct-cinema
+election
+hubert-humphrey
+independent-film
+kennedy-family
+political-primary
+presidential-campaign
+presidential-candidate
+senator
+u.s.-president
+wisconsin

@@ -1,0 +1,8 @@
+aleph
+buddhist
+cult
+religion
+religious-cult
+religious-sect
+sarin-gas
+sect

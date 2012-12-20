@@ -1,0 +1,10 @@
+alien
+box-office-flop
+craziness
+crop-circle
+escaped-mental-patient
+mental-asylum
+mental-illness
+scientist
+village
+villager

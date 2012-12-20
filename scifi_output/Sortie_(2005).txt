@@ -1,0 +1,4 @@
+car
+cat
+exit
+parking

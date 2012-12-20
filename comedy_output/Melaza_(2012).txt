@@ -1,0 +1,8 @@
+children
+mattress
+meat
+police
+sugar
+sugar-refinery
+swimming
+unemployment

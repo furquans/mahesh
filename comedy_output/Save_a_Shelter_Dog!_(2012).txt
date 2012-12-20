@@ -1,0 +1,5 @@
+animal-shelter
+dog
+hiking
+love
+puppy

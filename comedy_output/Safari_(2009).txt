@@ -1,0 +1,17 @@
+cannibal-tribe
+card-trick
+desert
+dream-sequence
+eaten-by-a-lion
+eaten-by-an-animal
+elephant
+giraffe
+gorilla
+lion
+missile
+monkey
+national-anthem
+safari
+tourist
+wallet
+waterfall

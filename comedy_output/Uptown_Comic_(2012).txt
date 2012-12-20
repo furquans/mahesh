@@ -1,0 +1,7 @@
+actor-playing-himself
+comedian
+entertainment
+live-comedy
+live-performance
+stand-up-comedian
+stand-up-comedy

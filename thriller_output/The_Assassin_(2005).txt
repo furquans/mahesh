@@ -1,0 +1,9 @@
+detective
+hitman
+independent-film
+neo-noir
+new-york-city
+police
+police-captain
+police-officer
+policeman

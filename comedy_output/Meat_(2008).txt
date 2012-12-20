@@ -1,0 +1,15 @@
+ballerina
+dancer
+dark
+dream
+gender
+idealism
+meat
+stage
+suit
+blood
+consumerism
+fake-commercial
+guts
+pig
+satire

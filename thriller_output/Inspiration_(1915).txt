@@ -1,0 +1,7 @@
+art-model
+artist
+country-girl
+model
+modelling
+sculptor
+statue

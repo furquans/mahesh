@@ -1,0 +1,16 @@
+baking
+bartender
+beer
+brewery
+carboy
+chemist
+club
+joke
+neurotic
+romantic-tension
+sitcom
+slacker
+stoner
+surfer
+waiter
+womanizer

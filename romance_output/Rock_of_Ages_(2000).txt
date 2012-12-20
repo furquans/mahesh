@@ -1,0 +1,10 @@
+candid
+commentary
+non-fiction
+opinion
+poll
+pop-group
+pop-music
+public-opinion
+senior-citizen
+television

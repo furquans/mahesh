@@ -1,0 +1,4 @@
+flogger
+hair-brush
+hand
+paddle

@@ -1,0 +1,15 @@
+airplane
+alps
+avalanche
+boat
+control-tower
+dog
+dog-actor
+independent-film
+injury
+lake
+lost-dog
+mountain
+rescue
+saint-bernard-dog
+switzerland

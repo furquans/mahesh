@@ -1,0 +1,6 @@
+boy
+female-bare-feet
+female-bare-legs
+female-stockinged-feet
+female-stockinged-legs
+mattress

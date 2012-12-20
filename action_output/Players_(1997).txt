@@ -1,0 +1,4 @@
+con
+con-game
+parole
+sting-operation

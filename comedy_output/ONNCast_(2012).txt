@@ -1,0 +1,4 @@
+fake-news-report
+journalism
+political-satire
+satire

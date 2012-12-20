@@ -1,0 +1,14 @@
+brother-sister-relationship
+dinner
+family-relationships
+husband-wife-relationship
+monsignor
+mother-daughter-relationship
+mother-son-relationship
+nun
+prayer
+priest
+religion
+religious
+wedding
+woman-of-the-year

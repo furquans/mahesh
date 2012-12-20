@@ -1,0 +1,4 @@
+glock
+lapd
+police
+victim

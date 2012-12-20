@@ -1,0 +1,12 @@
+alien
+arcade-game
+battlefield
+building
+cannon
+grenade
+headquarters
+invader
+mission
+outpost
+tank
+tree

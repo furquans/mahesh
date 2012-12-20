@@ -1,0 +1,7 @@
+brother-sister-relationship
+college
+tennis
+tennis-court
+tennis-player
+university
+university-student

@@ -1,0 +1,8 @@
+cult-tv
+detective
+police
+police-detective
+police-officer
+slapstick
+trail-of-blood
+urban-setting

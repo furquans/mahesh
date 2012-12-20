@@ -1,0 +1,7 @@
+con-artist
+detective
+partner
+private-detective
+sting-operation
+diamond
+lake-mead

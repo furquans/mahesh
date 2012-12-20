@@ -1,0 +1,7 @@
+cereal
+children
+fly
+greed
+idol
+jam
+wasp

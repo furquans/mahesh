@@ -1,0 +1,11 @@
+arsonist
+chase
+comic-book
+cop
+copycat
+female-villain
+insane-asylum
+masked-villain
+psychiatrist
+sequel
+vigilante

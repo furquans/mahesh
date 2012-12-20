@@ -1,0 +1,12 @@
+destinations
+economy
+entertainment
+global
+interview
+religion
+reporter
+tourism
+tourist-attraction
+travel
+world
+world-travel

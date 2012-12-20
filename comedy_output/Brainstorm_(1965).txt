@@ -1,0 +1,9 @@
+affair
+court
+detective
+faked-insanity
+insanity
+neo-noir
+physician
+scientist
+sergeant

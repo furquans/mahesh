@@ -1,0 +1,7 @@
+armorer
+delta-force
+police
+police-ambush
+special-forces
+swat
+u.s.-army-rangers

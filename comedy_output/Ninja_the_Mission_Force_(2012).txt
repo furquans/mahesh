@@ -1,0 +1,7 @@
+camp
+katana-sword
+martial-arts
+ninja
+ninja-master
+ninja-warrior
+ninjitsu

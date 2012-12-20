@@ -1,0 +1,6 @@
+apartment
+family-relationships
+neighbor
+sitcom
+teacher
+villa

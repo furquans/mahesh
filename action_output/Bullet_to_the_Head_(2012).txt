@@ -1,0 +1,5 @@
+based-on-comic
+based-on-comic-book
+based-on-graphic-novel
+hitman
+police-officer

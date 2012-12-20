@@ -1,0 +1,7 @@
+courtroom
+judge
+jury
+lawyer
+reenactment
+trial
+witness
